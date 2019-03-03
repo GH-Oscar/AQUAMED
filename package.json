@@ -1,0 +1,14 @@
+{
+  "name": "aquamed",
+  "version": "1.0.0",
+  "description": "Sistema de Medicion de Lecturas de Agua",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Carrasco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
